@@ -8,7 +8,7 @@ import frontEnd.App;
 public class Operations {
 	
 	static Scanner sn = new Scanner(System.in);
-	static String directory = "/Users/mohmehdi/Downloads/Javafsd/storage";
+	static String directory= "C:\\Users\\sahagraw\\OneDrive - Cisco\\Desktop\\LockedMe\\src\\Storage";
 
 	public static void FileOperations() {
 		

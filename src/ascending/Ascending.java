@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Ascending {
 	
-	static String directory= "/Users/mohmehdi/Downloads/Javafsd/storage";
+	static String directory= "C:\\Users\\sahagraw\\OneDrive - Cisco\\Desktop\\LockedMe\\src\\Storage";
 	public static void ascendingOrder() {
 		
 		File[] files = new File(directory).listFiles();

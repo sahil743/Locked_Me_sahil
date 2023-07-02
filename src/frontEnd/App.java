@@ -13,9 +13,9 @@ public class App {
 				+ "************* Welcome to LockedMe.com  *************\n"
 				+ "****************************************************\n");
 		
-        String developerName = "Dev - Mohammed Firdous Mehdi\n";
+        String developerName = "Dev -Sahil Agrawal\n";
 		
-		String developerEmail = "DevEmail - mohammedfirdousmehdi@gmail.com\n";
+		String developerEmail = "DevEmail - sahil.21091999@gmail.com\n";
 
 		String appDetails = "You can use this application to :-\n" + "--> Retrieve all file names in a given folder\n"
 				+ "--> Add, delete or search files\n";
